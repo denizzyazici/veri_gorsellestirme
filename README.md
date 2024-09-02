@@ -1,24 +1,24 @@
 # Data Virtualization
 
 
-**HAKKINDA**
+## HAKKINDA
  Bu projeyi, Veriyi görselleştirmede kullanılan kütüphanelerin, nasıl kullanıldığına dair ipuçları oluşturması için hazırladım.
 
-**ÖZELLİKLER**
+## ÖZELLİKLER
  numpy,pandas,matplotlib,plotly kütüphanelerinden yararlandım.
 
-**KULLANILAN TEKNOLOJİLER**
+## KULLANILAN TEKNOLOJİLER
  Fronted:Python
  IDE:Pycharm
 
-**GÖRÜNTÜLER**
+## GÖRÜNTÜLER
 
-  **MATPLOTLİB**
+ ## MATPLOTLİB
 ![Figure_1](https://github.com/user-attachments/assets/4dbd3885-8eae-4073-81e2-09342bea4c2d)
 ![Figure_2](https://github.com/user-attachments/assets/20236b82-562d-47ba-8dc2-80b2cd2025bc)
 ![Figure_3](https://github.com/user-attachments/assets/c1d52bf9-0f9d-427a-8f1a-17fc73144c43)
 
-  **SUBPLOT**
+  ## SUBPLOT
 ![Figure_4](https://github.com/user-attachments/assets/f07e25f5-b560-4fd4-88be-de318404b676)
 ![Figure_5](https://github.com/user-attachments/assets/d245da80-7ba2-40df-ac1e-c801ab9fdc22)
 ![Figure_6](https://github.com/user-attachments/assets/84cc9c1b-be16-47c0-bfe7-6de1128c27fe)
