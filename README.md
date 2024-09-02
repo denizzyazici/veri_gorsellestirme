@@ -1,2 +1,2 @@
-# veri_gorsellestirme
+# Data Virtualization
 numpy,matpotlib,pandas,plotly
