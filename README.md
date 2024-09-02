@@ -5,11 +5,15 @@
  Bu projeyi, Veriyi görselleştirmede kullanılan kütüphanelerin, nasıl kullanıldığına dair ipuçları oluşturması için hazırladım.
 
 ## ÖZELLİKLER
- numpy,pandas,matplotlib,plotly kütüphanelerinden yararlandım.
+ - **numpy**
+ - **pandas**
+ - **matplotlib**
+ - **plotly**
+    kütüphanelerinden yararlandım.
 
 ## KULLANILAN TEKNOLOJİLER
- Fronted:Python
- IDE:Pycharm
+ - **Frontend:** Python
+ - **IDE:** Pycharm
 
 ## GÖRÜNTÜLER
 
